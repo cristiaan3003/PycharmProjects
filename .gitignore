@@ -1,0 +1,40 @@
+journal.db
+.csync_journal.db
+.csync_journal.db-shm
+.csync_journal.db-wal
+.owncloudsync.log
+.owncloudsync.log.1
+
+
+Central-IP/
+FirstProyect/
+Machine Learning with Python/
+OVR_OVO_SVM_k-fold/
+Puestos de trabajo_Rectorado 2017.pdf
+RorateCorretly/
+Telefonos_Rectorado 2017.pdf
+chromo_seg/
+denver/
+dl_cnn_features/
+ejemploWatershed/
+gbdt_test/
+helloImage/
+interpolacion/
+modtel-TelefonoIP/
+open_curve_to_ordered_pixels/
+shockFilter/
+smoothing_thin/
+straighten_chromosome
+svm_test/
+
+
+
+
+*/__pycache__
+
+
+
+
+
+
+
